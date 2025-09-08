@@ -53,14 +53,3 @@ You can also reach me at contact@lesspass.com
 
 Based on an original idea from [masterpassword app](https://masterpassword.app/) :heart:
 
-## License
-
-This project is licensed under the terms of the GNU GPLv3.
-
-[LessPass mobile](https://github.com/lesspass/lesspass/tree/master/packages/lesspass-mobile) is bi-licensed under both the Mozilla Public License Version 2 as well as the GNU GPLv3.
-
-## Contributors
-
-This project exists thanks to all of the people who contribute to the project. [You can help too! There are many ways to help make LessPass better.](CONTRIBUTING.md)
-
-[![Contributors list](https://opencollective.com/lesspass/contributors.svg?width=890)](https://github.com/lesspass/lesspass/graphs/contributors)
